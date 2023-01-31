@@ -1,0 +1,43 @@
+.groupTimer, .realTime {
+    display: flex;
+    margin-top: 5rem;
+    justify-content: center;
+}
+
+.realTime {
+    font-size: 7rem;
+}
+
+ul {
+    list-style: none;
+}
+
+.borderLeft {
+    border-left: 3px solid black;
+    height: 6rem;
+    width: 6rem;
+}
+
+.borderRight {
+    border-right: 3px solid black;
+    height: 6rem;
+    width: 6rem;
+}
+
+.borderTop {
+    border-top: 3px solid black;
+    height: 6rem;
+    width: 6rem;
+}
+
+.borderBottom {
+    border-bottom: 3px solid black;
+    height: 6rem;
+    width: 6rem;
+}
+
+span {
+    font-size: 7rem;
+    display: flex;
+    align-items: center;
+}
